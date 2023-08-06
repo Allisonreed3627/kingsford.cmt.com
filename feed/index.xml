@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Kingsford CMT News</title>
+	<title>Kingsford Country Music Television - News, TV Shows and More | CMT</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Kingsford CMT News</description>
+	<description>Kingsford Country Music Television - News, TV Shows and More | CMT</description>
 	<lastBuildDate>Thu, 27 Jul 2023 14:38:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2023/07/cropped-cropped-kfd-logo-e1690468058135-32x32.png</url>
-	<title>Kingsford CMT News</title>
+	<title>Kingsford Country Music Television - News, TV Shows and More | CMT</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
