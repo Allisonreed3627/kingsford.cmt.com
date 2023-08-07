@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Weather &#8211; Kingsford CMT Update</title>
+	<atom:link href="/tag/weather/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 06 Aug 2023 23:05:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/08/cropped-cropped-king-Copy-32x32.jpg</url>
+	<title>Weather &#8211; Kingsford CMT Update</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tropical Storm Eugene may bring isolated storms Wednesday</title>
+		<link>/tropical-storm-eugene-may-bring-isolated-storms-wednesday/</link>
+					<comments>/tropical-storm-eugene-may-bring-isolated-storms-wednesday/#respond</comments>
+		
+		<dc:creator><![CDATA[Chondrika Mondri]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2023 23:05:48 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Local]]></category>
+		<category><![CDATA[Weather]]></category>
+		<guid isPermaLink="false">/tropical-storm-eugene-may-bring-isolated-storms-wednesday/</guid>
+
+					<description><![CDATA[SAN DIEGO — Tropical Storm Eugene is brewing off the Baja California coast and is moving west-northwest, which could mean rain and isolated storms midweek for parts of San Diego County. That’s according to the National Hurricane Center, which also warned of the possibility of Eugene becoming a hurricane Sunday. Weather officials now anticipate the ... <a title="Tropical Storm Eugene may bring isolated storms Wednesday" class="read-more" href="/tropical-storm-eugene-may-bring-isolated-storms-wednesday/" aria-label="More on Tropical Storm Eugene may bring isolated storms Wednesday">Read more</a>]]></description>
+										<content:encoded><![CDATA[
+<div>
+<p>SAN DIEGO — Tropical Storm Eugene is brewing off the Baja California coast and is moving west-northwest, which could mean rain and isolated storms midweek for parts of San Diego County.</p>
+<p>That’s according to the National Hurricane Center, which also warned of the possibility of Eugene becoming a hurricane Sunday. Weather officials now anticipate the storm to weaken into Monday.</p>
+<aside class="inline-related-stories">   </aside>
+<p>San Diego temperatures proved warm Sunday, especially in the inland areas with some areas hitting highs in the triple digits, the <a href="https://www.weather.gov/sgx/#" target="_blank" rel="noreferrer noopener">National Weather Service</a> reported. The region’s desert also remained under an Excessive Heat Warning with NWS warning of “dangerously hot conditions.”</p>
+<p>Looking ahead, weather officials say those in the region can expect more humidity and muggy conditions into Wednesday as Tropical Storm Eugene weakens. According to NWS, the diminishing tropical storm may provide a chance for isolated showers and storms midweek. </p>
+<p>Though NWS expressed lower confidence on the possibility of rain, weather officials say mugginess is highly likely as remnants of Tropical Storm Eugene trek northward. Nonetheless, weather officials say brief heavy downpours and lightening are possible throughout the county.</p>
+<p>For San Diego’s mountains, NWS anticipates gusty winds Monday evening through Tuesday evening with peak gusts possibly reaching between 35 to 55 mph. Weather officials advised motorist to “drive with care and watch for any blowing dust.”</p>
+<div class="article-content-cta-group">
+<div class="modal modal--suggest-a-correction article-content-cta-group__cta" data-component="modal">
+<div class="modal__dialog" style="display: none;">
+<div class="modal__dialog-content">
+			<button class="modal__close-button" aria-label="Close Modal Content"><br />
+				<span class="icon"><br />
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" tabindex="-1" viewbox="0 0 16.85 16.875">
+	<title>Close Modal</title>
+	<path fill="#fff" d="M9.65 8.454l6.88-7.063a.809.809 0 0 0 0-1.15.782.782 0 0 0-1.14 0L8.52 7.305 1.37.241a.782.782 0 0 0-1.14 0 .809.809 0 0 0 0 1.15l7.15 7.063-7.15 7.063a.809.809 0 0 0 0 1.15.824.824 0 0 0 .6.219.787.787 0 0 0 .59-.219l7.15-7.063 6.87 7.063a.824.824 0 0 0 .6.219.619.619 0 0 0 .54-.219.792.792 0 0 0 0-1.15z"/>
+</svg><br />
+</span><br />
+			</button></p>
+<h3 class="modal__dialog-title">Suggest a Correction</h3>
+</p></div>
+</p></div>
+<p>	<button data-modal-trigger="">Suggest a Correction</button>
+</div>
+</p></div>
+</p></div>
+
+]]></content:encoded>
+					
+					<wfw:commentRss>/tropical-storm-eugene-may-bring-isolated-storms-wednesday/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
